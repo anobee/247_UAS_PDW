@@ -48,8 +48,8 @@ require_once 'templates/header.php';
                 <span class="font-bold text-gray-500">BS</span>
             </div>
             <div>
-                <p class="text-gray-800"><strong>Budi Santoso</strong> mengumpulkan laporan untuk <strong>Modul 2</strong></p>
-                <p class="text-sm text-gray-500">10 menit lalu</p>
+                <p class="text-gray-800"><strong>Andre Onana</strong> mengumpulkan laporan untuk <strong>Modul 2</strong></p>
+                <p class="text-sm text-gray-500">20 menit yang lalu</p>
             </div>
         </div>
         <div class="flex items-center">
@@ -57,8 +57,8 @@ require_once 'templates/header.php';
                 <span class="font-bold text-gray-500">CL</span>
             </div>
             <div>
-                <p class="text-gray-800"><strong>Citra Lestari</strong> mengumpulkan laporan untuk <strong>Modul 2</strong></p>
-                <p class="text-sm text-gray-500">45 menit lalu</p>
+                <p class="text-gray-800"><strong>Mark Spector</strong> mengumpulkan laporan untuk <strong>Modul 2</strong></p>
+                <p class="text-sm text-gray-500">3246 tahun yang lalu</p>
             </div>
         </div>
     </div>
